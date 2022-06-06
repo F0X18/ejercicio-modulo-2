@@ -7,6 +7,10 @@
     width: 100%-49px;
     text-align: right;
     vertical-align: middle;
+    box-sizing: border-box;
+    display: inline-block;
+    list-style: none;
+    text-decoration: none;
     
 }
     
@@ -15,8 +19,15 @@
 }
 .main-footer{
     text-align:justify ;
+    background-color: aqua;
+    display:flex
+    
 }
 
-.t1{
+#t1{
     text-align: center;
+}
+.aside{
+    background-color: blueviolet;
+    
 }
