@@ -38,20 +38,21 @@ for (let i = 0; i < lon3; i++) {
     console.log(objeto3[arrayObj3[i]]);
      }
 //ejercicio 6
+JSON. stringify()
+Object. entries()
 
 //ejercicio 7
-setInterval(() => { 
-    console.log('Esta instruccion se ejecuta cada 5 segundos');
-    }, 5000);
+    setTimeout(() => { 
+        console.log('Esta instruccion se ejecuta cada 5 segundos');
+        }, 5000);
 
 
 
 
     //ejercicio 8
     setInterval(() => {
-        const newArray = (arrayObj1.gestor, arrayObj2.gestor, arrayObj3.gestor);
-        return(newArray)
-        console.log(newArray);
+        (arrayObj1.gestor, arrayObj2.gestor, arrayObj3.gestor);
+        console.log();
         }, 5000);
 
 
