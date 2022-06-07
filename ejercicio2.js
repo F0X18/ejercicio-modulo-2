@@ -38,7 +38,7 @@ for (let i = 0; i < lon3; i++) {
     console.log(objeto3[arrayObj3[i]]);
      }
 //ejercicio 6
-JSON. stringify()
+JSON. stringify(objeto1,objeto2,objeto3)
 Object. entries()
 
 //ejercicio 7
@@ -46,7 +46,7 @@ Object. entries()
         console.log('Esta instruccion se ejecuta cada 5 segundos');
         }, 5000);
 
-
+        XMLHttpRequest()
 
 
     //ejercicio 8
