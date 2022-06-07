@@ -25,15 +25,15 @@ arrayObj2=Object.keys(objeto2)
 console.log(arrayObj2);
 arrayObj3=Object.keys(objeto3)
 console.log(arrayObj3);
-lon1 =arrayObj1.length;//4
+lon1 =arrayObj1.length;
 for (let i = 0; i < lon1; i++) {
     console.log(objeto1[arrayObj1[i]]);
 }
-lon2 =arrayObj2.length;//4
+lon2 =arrayObj2.length;
 for (let i = 0; i < lon2; i++) {
     console.log(objeto2[arrayObj2[i]]);
 }
-lon3 =arrayObj3.length;//4
+lon3 =arrayObj3.length;
 for (let i = 0; i < lon3; i++) {
     console.log(objeto3[arrayObj3[i]]);
      }
@@ -51,7 +51,7 @@ Object. entries()
 
     //ejercicio 8
     setInterval(() => {
-        (arrayObj1.gestor, arrayObj2.gestor, arrayObj3.gestor);
+        ;
         console.log();
         }, 5000);
 
